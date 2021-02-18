@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none; /*gets rid of the underline under the text*/
+}
+
+main {
+  display: block;
+  margin: 0 auto;
+  width: 75%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+}
+
+h1 {
+  color: #907163;
+}
